@@ -32,8 +32,6 @@ I've started my journey with Python, evolving into a Software Engineer crafting 
 
 <a href="http://www.github.com/hemantkrishnan4"><img src="https://github-readme-streak-stats.herokuapp.com/?user=hemantkrishnan4&stroke=f97316&background=181824&ring=0891b2&fire=0891b2&currStreakNum=f97316&currStreakLabel=0891b2&sideNums=f97316&sideLabels=f97316&dates=f97316&hide_border=true" /></a>
 
-<a href="http://www.github.com/hemantkrishnan4"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=hemantkrishnan4&bg_color=181824&color=f97316&line=0891b2&point=f97316&area_color=181824&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
 <a href="https://github.com/hemantkrishnan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkrishnan4&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
