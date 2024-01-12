@@ -1,16 +1,13 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Hemant Krishnan
+=======================================================================================================================================
 
-<!--
-**hemantkrishnan4/hemantkrishnan4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer | Machine Learning Enthusiast |Drone Pilot
+--------------------------------------------------------
 
-Here are some ideas to get you started:
+I've started my journey with Python, evolving into a Software Engineer crafting innovative solutions with code. Currently, I'm exploring the fascinating realms of Machine Learning and AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🌍  I'm based in India
+* ✉️  You can contact me at [hemantkrishnan4@gmail.com](mailto:hemantkrishnan4@gmail.com)
+* 🧠  I'm learning Solidworks, ROS, Flutter, Tensorflow
+* 🤝  I'm open to collaborating on Machine Learning and other Python projects
+* ⚡  I'm a FPV Drone Pilot
