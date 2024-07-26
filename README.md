@@ -57,4 +57,3 @@ I've started my journey with Python, evolving into a Software Engineer crafting 
 
 <a href="https://github.com/hemantkrishnan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkrishnan4&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
