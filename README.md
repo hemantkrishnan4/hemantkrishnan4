@@ -58,9 +58,3 @@ I've started my journey with Python, evolving into a Software Engineer crafting 
 <a href="https://github.com/hemantkrishnan4" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemantkrishnan4&langs_count=10&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/hemantkrishnan4/FrozenLake-DQL" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantkrishnan4&repo=FrozenLake-DQL&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/hemantkrishnan4/Dynamic-Date-Animation" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantkrishnan4&repo=Dynamic-Date-Animation&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/hemantkrishnan4/AR_Card" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantkrishnan4&repo=AR_Card&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a><a href="https://github.com/hemantkrishnan4/Flutter-Web-Login-Page" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=hemantkrishnan4&repo=Flutter-Web-Login-Page&title_color=0891b2&text_color=f97316&icon_color=0891b2&bg_color=181824&hide_border=true&locale=en" /></a></div>
